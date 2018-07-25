@@ -1,0 +1,88 @@
+category:
+  - name: Sản phẩm hỗ trợ
+    url: /ho-tro
+    products:
+        - name: Kìm bấm màng chân cao cấp
+          url: /san-pham/ho-tro/kim-bam-mang-chan-cao-cap.html
+          price: 720k (free ship COD)
+          images:
+            - /photos/san-pham/ho-tro/kim-bam-mang-chan.jpg
+            - /photos/san-pham/ho-tro/kim-bam-mang-chan-02.jpg
+            - /photos/san-pham/ho-tro/kim-bam-mang-chan-03.jpg
+  - name: Thuốc nuôi
+    url: /thuoc-nuoi
+    products:
+      - name: Bộ sản phẩm biệt dưỡng 2 tuần X14
+        url: /san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14.html
+        price: 
+        original_price: Tạm hết hàng
+        images:
+          - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14.jpg
+          - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-02.jpg
+          - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-03.jpg
+      # - name: Bộ sản phẩm biệt dưỡng 2 tuần X14 Plus
+      #   price: 280k
+      #   images:
+      #     - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-plus.jpg
+      #     - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-plus-02.jpg
+      #     - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-plus-03.jpg
+  # - name: Thuốc đá
+  #   products:
+  #       - name: Thuốc đá gà cựa K1
+  #         price: Liên hệ
+  #       - name: Thuốc đá gà cựa K2
+  #         price: Liên hệ
+articleCategory:
+  - name: Các dòng gà
+    url: /cac-dong-ga
+    articles:
+      - name: Stuart Yellow leg Hatch
+        description: Mạnh mẽ, khôn ngoan, màu điều, chân vàng, mồng dâu, đuôi lao, thân hình vạm vỡ, gà chạng khá lớn, thường ở mức 2.5 - 2.8kg
+        url: /cac-dong-ga/stuart-yellow-leg-hatch.html
+        images:
+            - /photos/cac-dong-ga/stuart-yellow-leg-hatch/xich-ke-stuart-yellow-legged-hatch-02.jpg
+            - /photos/cac-dong-ga/stuart-yellow-leg-hatch/xich-ke-stuart-yellow-legged-hatch-01.jpg
+            - /photos/cac-dong-ga/stuart-yellow-leg-hatch/xich-ke-stuart-yellow-legged-hatch-03.jpg
+      - name: Yellow Leg Hatch từ Gene Brown
+        description: Mạnh mẽ, bền bỉ và thông minh. "Game to the core" - luôn chiến đấu đến giọt máu cuối cùng,chưa bao giờ thấy con gà nào bỏ chiến mà chạy
+        url: /cac-dong-ga/yellow-leg-hatch-tu-gene-brown.html
+        images:
+            - /photos/cac-dong-ga/stuart-yellow-leg-hatch/xich-ke-stuart-yellow-legged-hatch-03.jpg
+            - /photos/cac-dong-ga/stuart-yellow-leg-hatch/xich-ke-stuart-yellow-legged-hatch-01.jpg
+            - /photos/cac-dong-ga/stuart-yellow-leg-hatch/xich-ke-stuart-yellow-legged-hatch-02.jpg
+      - name: Roundhead
+        description: Tướng lãnh của trường gà bởi sự nhanh nhẹn và khôn ngoan...
+        url: /cac-dong-ga/roundhead.html
+        images:
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-03.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-07.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-22.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-01.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-02.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-04.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-05.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-06.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-08.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-09.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-10.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-11.jpg
+      - name: Sweater
+        description: Phong cách thi đấu kết hợp đầy đủ mạnh mẽ, tốc độ, thông minh
+        url: /cac-dong-ga/sweater.html
+        images:
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-21.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-17.jpg
+              - /photos/cac-dong-ga/roundhead/xich-ke-roundhead-19.jpg
+      - name: Penny Hatch từ Tennessy USA
+        description: Sức mạnh và lực chân cực kì mạnh mẽ
+        url: /cac-dong-ga/penny-hatch-tu-tennessy-usa.html
+        images:
+              - /photos/cac-dong-ga/penny-hatch/xich-ke-penny-hatch-01.jpg
+              - /photos/cac-dong-ga/penny-hatch/xich-ke-penny-hatch-01.jpg
+              - /photos/cac-dong-ga/penny-hatch/xich-ke-penny-hatch-01.jpg
+  - name: Chia sẻ
+    articles:
+      - name: Vài điều về gà mỹ
+        url: /chia-se/vai-dieu-ve-ga-my.html
+        images:
+          - /photos/cac-dong-ga/white-gold/xich-ke-white-gold-01.jpg
