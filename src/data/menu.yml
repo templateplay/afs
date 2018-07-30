@@ -1,10 +1,4 @@
 - name: Sản Phẩm
   url: /san-pham/
-- name: Các dòng gà
-  url: /cac-dong-ga/
-- name: Chia sẻ
-  url: /chia-se/
 - name: Liên Hệ
   url: /lien-he.html
-# - name: FAQ
-#   url: /faq.html

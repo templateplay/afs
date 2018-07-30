@@ -29,7 +29,9 @@
                             <i class="fa fa-phone"></i>
                         </div>
                         <div class="contact-text">
-                            <p><a href="tel:{{meta.phone}}">{{meta.phone}}</a></p>
+                            {{#each meta.phone}}
+                            <p><a href="tel:{{this}}">{{this}}</a></p>
+                            {{/each}}
                             <span>{{meta.address}}</span>
                         </div>
                     </div>
@@ -43,7 +45,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="social-bar">
-                        <div class="fb-like" data-href="https://www.facebook.com/xichkedotcom/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+                        <div class="fb-like" data-href="{{meta.fb_page}}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
                     </div>
                 </div>
             </div>

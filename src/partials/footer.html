@@ -13,7 +13,7 @@
                         <a target="_blank" href="{{meta.fb_page}}"><i class="fa fa-facebook fa-2x red"></i></a>
                     </div>
                 </div>
-                <a target="_blank" class="red" href="{{meta.fb_page}}">fb.com/xichkedotcom</a>
+                <a target="_blank" class="red" href="{{meta.fb_page}}">{{remove meta.fb_page "https://www."}}</a>
             </div>
             <div class="single-service w33p">
                 <div class="service-icon">
@@ -21,7 +21,7 @@
                         <a target="_blank" class="red" href="{{meta.youtube_channel}}"><i class="fa fa-youtube fa-2x red"></i></a>
                     </div>
                 </div>
-                <a target="_blank" class="red" href="{{meta.youtube_channel}}">youtube.com/xichke</a>
+                <a target="_blank" class="red" href="{{meta.youtube_channel}}">{{remove meta.youtube_channel "https://www."}}</a>
             </div>
             <div class="single-service w33p">
                 <div class="service-icon">
@@ -29,7 +29,11 @@
                         <a class="red" href="tel:0911779917"><i class="fa fa-phone fa-2x red"></i></a>
                     </div>
                 </div>
-                <a class="red" href="tel:{{meta.phone}}">{{meta.phone}}</a>
+                {{#each meta.phone}}
+                <a class="red" href="tel:{{this}}">{{this}}</a>
+                {{!-- <p><a href="tel:{{this}}">{{this}}</a></p> --}}
+                {{/each}}
+                
             </div>
         </div>
     </div>
@@ -39,8 +43,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <div class="footer-left">
-                    <p>Copyright &copy; 2017<a href="/">Xích Kê</a>. All rights reserved.</p><br/><br/>
-                    <p>Anh em cùng đam mê xin mời subcribe Youtube, like trang Facebook và nếu cần gì đừng ngại chat hoặc gọi điện trực tiếp cho mình nhé. Xin cảm ơn!</p>
+                    <p>Copyright &copy; 2017<a href="/">{{meta.name}}</a>. All rights reserved.</p><br/><br/>
                 </div>
             </div>
         </div>

@@ -97,3 +97,6 @@ gulp.task('htmlreplace', (done) => {
 gulp.task('dist', gulp.series('clean:dist', 'hbs', 'useref', 'htmlreplace', 'rev', 'replace', 'copy:dist', (done) => {
     done();
 }));
+gulp.task('deploy', gulp.series('dist', 'github', (done) => {
+    done();
+}));

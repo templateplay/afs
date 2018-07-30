@@ -1,37 +1,64 @@
 category:
-  - name: Sản phẩm hỗ trợ
-    url: /ho-tro
+  - name: Máy quạt nước
+    url: /may-quat-nuoc
     products:
-        - name: Kìm bấm màng chân cao cấp
-          url: /san-pham/ho-tro/kim-bam-mang-chan-cao-cap.html
-          price: 720k (free ship COD)
+        - name: Quạt nước YL 1.5 kw 380 V
+          url: 
+          price: 
           images:
-            - /photos/san-pham/ho-tro/kim-bam-mang-chan.jpg
-            - /photos/san-pham/ho-tro/kim-bam-mang-chan-02.jpg
-            - /photos/san-pham/ho-tro/kim-bam-mang-chan-03.jpg
-  - name: Thuốc nuôi
-    url: /thuoc-nuoi
+            - /photos/01.jpg
+        - name: Quạt nước YLD 1.5 kw 220 V
+          url: 
+          price: 
+          images:
+            - /photos/02.jpg
+        - name: Máy tạo quạt nước LSZY 1.5
+          url: 
+          price: 
+          images:
+            - /photos/03.jpg
+  - name: Máy thổi khí
+    url: /may-thoi-khi
     products:
-      - name: Bộ sản phẩm biệt dưỡng 2 tuần X14
-        url: /san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14.html
-        price: 
-        original_price: Tạm hết hàng
-        images:
-          - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14.jpg
-          - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-02.jpg
-          - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-03.jpg
-      # - name: Bộ sản phẩm biệt dưỡng 2 tuần X14 Plus
-      #   price: 280k
-      #   images:
-      #     - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-plus.jpg
-      #     - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-plus-02.jpg
-      #     - /photos/san-pham/thuoc-nuoi/bo-san-pham-biet-duong-2-tuan-x14-plus-03.jpg
-  # - name: Thuốc đá
-  #   products:
-  #       - name: Thuốc đá gà cựa K1
-  #         price: Liên hệ
-  #       - name: Thuốc đá gà cựa K2
-  #         price: Liên hệ
+        - name: Máy thổi khí con sò Dargang DG-300-36
+          url: 
+          price: 
+          images:
+            - /photos/04.png
+  - name: Máy tạo sóng
+    url: /may-tao-song
+    products:
+        - name: Máy quạt nước
+          url: 
+          price: 
+          images:
+            - /photos/05.jpg
+  - name: Ống ôxy
+    url: /ong-oxy
+    products:
+        - name: Ống aero tube
+          url: 
+          price: 
+          images:
+            - /photos/06.jpg
+        - name: Ống aero tube
+          url: 
+          price: 
+          images:
+            - /photos/07.jpg
+  - name: Máy bơm
+    url: /may-bom
+    products:
+        - name: 65WA Panels
+          url: 
+          price: 
+          images:
+            - /photos/08.jpg
+        - name: Máy bơm QY
+          url: 
+          price: 
+          images:
+            - /photos/09.jpg
 articleCategory:
   - name: Các dòng gà
     url: /cac-dong-ga
