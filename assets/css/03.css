@@ -257,7 +257,7 @@ a.button-text:hover{background:#313131;color:#fff}
 .single-p-slide.owl-carousel.owl-loaded.active{display:block;}
 .single-product-items{position:relative;overflow:hidden}
 .single-items{position:relative;overflow:hidden;border:1px solid #ccc}
-.single-items a img,.p-right-image a img{transition:all 0.5s ease-out 0s;width:100%;}
+.single-items a img,.p-right-image a img{transition:all 0.5s ease-out 0s;width:100%;height: 222px;}
 .single-items a img.secondary-img,.p-right-image a img.secondary-img{left:0;opacity:0;position:absolute;top:0;z-index:1;}
 .single-items:hover a img.secondary-img,.p-right-image:hover a img.secondary-img{opacity:1;}
 .single-items > a::before,.p-right-image > a::before{background-color:transparent;content:"";height:100%;left:0;opacity:0;position:absolute;top:0;width:100%;transition:all 0.4s ease-out 0s}

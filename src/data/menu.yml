@@ -1,4 +1,4 @@
-- name: Sản Phẩm
-  url: /san-pham/
-- name: Liên Hệ
-  url: /lien-he.html
+- name: Products
+  url: /products/
+- name: Contact Us
+  url: /contact-us.html

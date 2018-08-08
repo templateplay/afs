@@ -1,64 +1,133 @@
 category:
-  - name: Máy quạt nước
+  - name: Fisher's series Roots blower
     url: /may-quat-nuoc
     products:
-        - name: Quạt nước YL 1.5 kw 380 V
-          url: 
-          price: 
+        - name: ZLE-150L two-leaf vertical Roots blower
           images:
-            - /photos/01.jpg
-        - name: Quạt nước YLD 1.5 kw 220 V
-          url: 
-          price: 
+            - /photos/products/11.jpg
+        - name: ZLE-125L two-leaf vertical Roots blower
           images:
-            - /photos/02.jpg
-        - name: Máy tạo quạt nước LSZY 1.5
-          url: 
-          price: 
+            - /photos/products/11.jpg
+        - name: ZLE-100L two-leaf vertical Roots blower
           images:
-            - /photos/03.jpg
-  - name: Máy thổi khí
+            - /photos/products/11.jpg
+        - name: ZLE-80L two-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLE-65LA two-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLE-65L two-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLE-50L two-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+  - name: Three-leaf vertical Roots blower
     url: /may-thoi-khi
     products:
-        - name: Máy thổi khí con sò Dargang DG-300-36
-          url: 
-          price: 
+        - name: ZLS-200L three-leaf vertical Roots blower
           images:
-            - /photos/04.png
-  - name: Máy tạo sóng
-    url: /may-tao-song
+            - /photos/products/11.jpg
+        - name: ZLS-150L three-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-125L three-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-100L three-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-80L three-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-65LA three-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-65L three-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-50L three-leaf vertical Roots blower
+          images:
+            - /photos/products/11.jpg
+  - name: Low pressure horizontal Roots blower
+    url: /may-thoi-khi
     products:
-        - name: Máy quạt nước
-          url: 
-          price: 
+        - name: ZLS-200W three-leaf horizontal Roots blower
           images:
-            - /photos/05.jpg
-  - name: Ống ôxy
-    url: /ong-oxy
+            - /photos/products/08.jpg
+        - name: ZLS-150W three-leaf horizontal Roots blower
+          images:
+            - /photos/products/08.jpg
+        - name: ZLS-125W three-leaf horizontal Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-100W three-leaf horizontal Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-80WA three-leaf horizontal Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-65W three-leaf horizontal Roots blower
+          images:
+            - /photos/products/11.jpg
+        - name: ZLS-50W three-leaf horizontal Roots blower
+          images:
+            - /photos/products/11.jpg
+  - name: Medium pressure horizontal Roots blower
+    url: /may-thoi-khi
     products:
-        - name: Ống aero tube
-          url: 
-          price: 
+        - name: ZLS-250WM medium pressure three-leaf horizontal Roots blower
           images:
-            - /photos/06.jpg
-        - name: Ống aero tube
-          url: 
-          price: 
+            - /photos/products/16.jpg
+        - name: ZLS-200WM medium pressure three-leaf horizontal Roots blower
           images:
-            - /photos/07.jpg
-  - name: Máy bơm
-    url: /may-bom
+            - /photos/products/17.jpg
+        - name: ZLS-150WM medium pressure three-leaf horizontal Roots blower
+          images:
+            - /photos/products/18.jpg
+        - name: ZLS-125WM medium pressure three-blade horizontal Roots blower
+          images:
+            - /photos/products/18.jpg
+        - name: ZLS-100WM medium pressure three-leaf horizontal Roots blower
+          images:
+            - /photos/products/16.jpg
+        - name: ZLS-80WM medium pressure three-leaf horizontal Roots blower
+          images:
+            - /photos/products/16.jpg
+        - name: ZLS-65WM medium pressure three-blade horizontal Roots blower
+          images:
+            - /photos/products/16.jpg
+        - name: ZLS-50WM medium pressure three-leaf horizontal Roots blower
+          images:
+            - /photos/products/16.jpg
+  - name: Special accessories
+    url: /may-thoi-khi
     products:
-        - name: 65WA Panels
-          url: 
-          price: 
+        - name: Intake silencer structure
           images:
-            - /photos/08.jpg
-        - name: Máy bơm QY
-          url: 
-          price: 
+            - /photos/products/40.jpg
+        - name: Suction silencer (XG type)
           images:
-            - /photos/09.jpg
+            - /photos/products/41.jpg
+        - name: Suction silencer (XF type)
+          images:
+            - /photos/products/42.jpg
+        - name: Anti-vibration rubber
+          images:
+            - /photos/products/43.jpg
+        - name: Vertical exhaust silencer
+          images:
+            - /photos/products/44.jpg
+        - name: Export silencer
+          images:
+            - /photos/products/45.jpg
+        - name: Flexible joint
+          images:
+            - /photos/products/46.jpg
+        - name: Check valve
+          images:
+            - /photos/products/47.jpg
 articleCategory:
   - name: Các dòng gà
     url: /cac-dong-ga
