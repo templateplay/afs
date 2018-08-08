@@ -17,9 +17,9 @@ h1.page-title{color:#ff5555}
 .impress{background:#ebebeb none repeat scroll 0 0;font-style:italic;padding:20px 10px 2px 15px;position:relative;}
 .impress::before{background:#ff5555 none repeat scroll 0 0;content:"";height:100%;left:0;position:absolute;top:0;width:7px;}
 @media (max-width:767px){
-    .impress{margin-bottom:38px;margin-top:30px;padding:40px 20px;}
+	.impress{margin-bottom:38px;margin-top:30px;padding:40px 20px;}
 }
 .line-through{text-decoration:line-through!important;}
 .p-details-tab strong{font-size:18px;}
-img.center{display:block !important;margin:0 auto !important;}
-.product-details-area ul{padding-left: 0 !important;}
+img.center{display:block!important;margin:0 auto!important;}
+.product-details-area ul{padding-left:0!important;}

@@ -1,6 +1,5 @@
 category:
   - name: Fisher's series Roots blower
-    url: /may-quat-nuoc
     products:
         - name: ZLE-150L two-leaf vertical Roots blower
           images:
@@ -24,7 +23,6 @@ category:
           images:
             - /photos/products/11.jpg
   - name: Three-leaf vertical Roots blower
-    url: /may-thoi-khi
     products:
         - name: ZLS-200L three-leaf vertical Roots blower
           images:
@@ -51,7 +49,6 @@ category:
           images:
             - /photos/products/11.jpg
   - name: Low pressure horizontal Roots blower
-    url: /may-thoi-khi
     products:
         - name: ZLS-200W three-leaf horizontal Roots blower
           images:
@@ -75,7 +72,6 @@ category:
           images:
             - /photos/products/11.jpg
   - name: Medium pressure horizontal Roots blower
-    url: /may-thoi-khi
     products:
         - name: ZLS-250WM medium pressure three-leaf horizontal Roots blower
           images:
@@ -102,7 +98,6 @@ category:
           images:
             - /photos/products/16.jpg
   - name: Special accessories
-    url: /may-thoi-khi
     products:
         - name: Intake silencer structure
           images:
@@ -128,6 +123,37 @@ category:
         - name: Check valve
           images:
             - /photos/products/47.jpg
+  - name: Rotary blower
+    products:
+        - name: ZH-100S ZH-1001S
+          images:
+            - /photos/products/25.jpg
+        - name: ZH-80S ZH-801S
+          images:
+            - /photos/products/25.jpg
+        - name: ZH-60S ZH-601S
+          images:
+            - /photos/products/25.jpg
+        - name: ZH-50S ZH-501S
+          images:
+            - /photos/products/25.jpg
+        - name: ZH-40S ZH-401S
+          images:
+            - /photos/products/25.jpg
+        - name: ZH-30S ZH-301S
+          images:
+            - /photos/products/25.jpg
+        - name: ZH-251S
+          images:
+            - /photos/products/46.jpg
+  - name: Planetary gearbox
+    products:
+        - name: T series wheel drive
+          images:
+            - /photos/products/28.jpg
+        - name: S series rotary drive
+          images:
+            - /photos/products/31.jpg
 articleCategory:
   - name: Các dòng gà
     url: /cac-dong-ga
